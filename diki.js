@@ -3,7 +3,6 @@
 // @version  1
 // @grant    none
 // @match https://diki.pl/*
-// @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js 
 // ==/UserScript==
 
 document.querySelectorAll('.audioIcon').forEach((el) => {
